@@ -53,4 +53,4 @@ Registrováni jsou následující uživatelé:
         počet čísel (ne cifer),
         sumu všech čísel (ne cifer) v textu.
 
-    Program zobrazí jednoduchý sloupcový graf, který bude reprezentovat četnost různých délek slov v textu. Například takto:
+    Program zobrazí jednoduchý sloupcový graf, který bude reprezentovat četnost různých délek slov v textu.
